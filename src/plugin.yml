@@ -1,0 +1,10 @@
+name: Sorter
+version: 0.1
+main: com.imyvm.Sorter.Sorter
+softdepend: [LockettePro]
+api-version: 1.13
+
+commands:
+  si:
+    description: sorter player's inventory
+    aliases: [sortinventory]
